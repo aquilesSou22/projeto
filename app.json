@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "SheDriveApp",
+    "slug": "SheDriveApp",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "android": {
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyBHVSb7ZxlVM8hr7IheCF9fv_EEjCZz1s4"
+        }
+      }
+    },
+    "ios": {
+      "config": {
+        "googleMapsApiKey": "AIzaSyBHVSb7ZxlVM8hr7IheCF9fv_EEjCZz1s4"
+      }
+    }
+  }
+}
